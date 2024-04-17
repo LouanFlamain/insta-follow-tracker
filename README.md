@@ -11,4 +11,5 @@ créer un fichier .env de la forme :
 
 pour start :
 
+    npm install
     npm run exec

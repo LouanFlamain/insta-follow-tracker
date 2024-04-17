@@ -2,6 +2,8 @@
 
 # insta-follow-tracker
 
+# crée en node v18.17.0
+
 créer un fichier .env de la forme :
 
     USERNAME="user"
